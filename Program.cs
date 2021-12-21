@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+for computer programming 4 activity
+*/
+
+using System;
 
 namespace SumOfArray
 {
